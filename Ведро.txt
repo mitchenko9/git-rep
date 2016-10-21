@@ -1,1 +1,2 @@
 alert(‘Сегодня ничего не произошло’);
+alert(‘B ctujlyz nj;t ybxtuj yt ghjbpjikj’);
